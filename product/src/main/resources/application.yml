@@ -1,13 +1,14 @@
 eureka:
   client:
-    servce-url:
-     defaultZone: http://localhost:8761 /eureka/
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
 spring:
-  name: product
+  application:
+   name: product
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     username: root
     password: 123456
-    url: jdbc:mysql://localhost/SpringCold_Sell?characterEncoding=utf-8
+    url: jdbc:mysql://192.168.0.112/springcloud_sell?characterEncoding=utf-8&useSSL=false
   jpa:
     show-sql: true
