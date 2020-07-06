@@ -13,7 +13,7 @@ target/
 .springBeans
 .sts4-cache
 
-### InteiJ IDEA ###
+### IntelliJ IDEA ###
 .idea
 *.iws
 *.iml
@@ -26,11 +26,6 @@ target/
 /nbdist/
 /.nb-gradle/
 build/
-/server/target/
-/client/target/
-/common/target/
-/server/src/test/
-
 
 ### VS Code ###
 .vscode/
