@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de98bcea-fb0c-4ed6-9eb4-77f1b201e124" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../product/client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../product/client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product/client/src/main/java/com/dragon/product/client/ProductClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../product/client/src/main/java/com/dragon/product/client/ProductClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product/common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../product/common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../product/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product/server/src/main/java/com/dragon/product/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../product/server/src/main/java/com/dragon/product/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product/server/src/main/java/com/dragon/product/dataobject/ProductInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../product/server/src/main/java/com/dragon/product/dataobject/ProductInfo.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven-repository" />
+        <option name="mavenHome" value="E:/Program Files/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\Program Files\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eMIh9Nv2aXb37O3TxMklGZpjCO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ConfigApplication">
+    <configuration name="ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dragon.config.ConfigApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigApplication1" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dragon.config.ConfigApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=9001" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigApplication2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dragon.config.ConfigApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=9002" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ConfigApplication" />
+      <item itemvalue="Spring Boot.ConfigApplication1" />
+      <item itemvalue="Spring Boot.ConfigApplication2" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de98bcea-fb0c-4ed6-9eb4-77f1b201e124" name="Default Changelist" comment="" />
+      <created>1594125151639</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594125151639</updated>
+      <workItem from="1594125154782" duration="834000" />
+      <workItem from="1594168511881" duration="22567000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
